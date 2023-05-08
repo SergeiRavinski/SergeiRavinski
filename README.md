@@ -12,5 +12,5 @@
 	<img height=55px src="/assets/git-icon.svg" alt="Git icon">
 	<img height=55px src="/assets/figma-icon.svg" alt="Figms icon">
 	<img height=55px src="/assets/postman.png" alt="Postman icon">
-	<img height=55px src="/assets/sanity.png" alt="Sanity icon">
+	<img height=55px src="/assets/sanity.webp" alt="Sanity icon">
 </div>
