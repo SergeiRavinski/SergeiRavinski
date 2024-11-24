@@ -1,6 +1,15 @@
-### Hi there 👋
+# Hi there, i'm Sergei 👋
 
-#### Languages and Tools
+Welcome to my GitHub profile! I'm front-end/fullstack developer based in Oslo, Norway
+
+## Skills and Technologies
+
+**Next.js (incl. App router), React.js, TypeScript, JavaScript, Sanity, GROQ Query Language, Node.js, Zustand, Tailwind CSS.**
+
+## 📫 How to reach me
+
+-   Email: sergei.ravinski@gmail.com
+-   LinkedIn: https://www.linkedin.com/in/sergeiravinski/
 
 <div display=flex>
 	<img height=40px src="/assets/css-icon.svg" alt="CSS icon">
