@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm front-end/fullstack developer based in Oslo, N
 -   Email: sergei.ravinski@gmail.com
 -   LinkedIn: https://www.linkedin.com/in/sergeiravinski/
 
-<div display=flex>
+<!-- <div display=flex>
 	<img height=40px src="/assets/css-icon.svg" alt="CSS icon">
 	<img height=40px src="/assets/html-icon.svg" alt="HTML icon">
 	<img height=40px src="/assets/nextjs.svg" alt="Next.js icon">
@@ -26,4 +26,4 @@ Welcome to my GitHub profile! I'm front-end/fullstack developer based in Oslo, N
 	<img height=40px src="/assets/git-icon.svg" alt="Git icon">
 	<img height=40px src="/assets/figma-icon.svg" alt="Figms icon">
 	<img height=40px src="/assets/postman.png" alt="Postman icon">
-</div>
+</div> -->
