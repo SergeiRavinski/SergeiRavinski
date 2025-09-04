@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm front-end/fullstack developer based in Oslo, N
 
 ## Skills and Technologies
 
-**Next.js (incl. App router), React.js, TypeScript, JavaScript, Sanity, GROQ Query Language, Node.js, Zustand, Tailwind CSS.**
+**TypeScript, Next.js, React.js, Sanity, Node.js, Zustand, Tailwind CSS.**
 
 ## 📫 How to reach me
 
