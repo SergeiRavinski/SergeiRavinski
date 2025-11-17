@@ -1,14 +1,10 @@
 # Hi there, i'm Sergei 👋
 
-Welcome to my GitHub profile! I'm front-end/fullstack developer based in Oslo, Norway
-
-## Skills and Technologies
-
-**TypeScript, Next.js, React.js, Sanity, Node.js, Zustand, Tailwind CSS.**
+Welcome to my GitHub profile! I'm front-end/full-stack developer based in Oslo, Norway
 
 ## 📫 How to reach me
 
--   Email: sergei.ravinski@gmail.com
+-   Email: ravinski.sergei@gmail.com
 -   LinkedIn: https://www.linkedin.com/in/sergeiravinski/
 
 <!-- <div display=flex>
